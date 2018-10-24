@@ -39,7 +39,8 @@ Fall Term: Developer Create the correct folder structure based on best practices
 - [ ] Submit
 
 ## Authors
-
+* Hassan Yousuf - Developer
+* Helen Unger - Designer
 
 
 ## References
