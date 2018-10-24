@@ -44,4 +44,4 @@ Fall Term: Developer Create the correct folder structure based on best practices
 
 ## References
 
-https://www.netflix.com/
+* [Netflix](https://www.netflix.com/)
